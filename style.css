@@ -1,0 +1,33 @@
+body {
+/* background-color: rgb(233, 235, 255); */
+ background-image: url(vince.jpg);
+ background-position:bottom; left: ;
+}
+
+p {
+ text-align: left;
+}
+
+.p1{
+    text-align: center;
+}
+
+.p2{
+    text-align: left;
+}
+.p3{
+    text-align: right;
+}
+.p4{
+    text-align: justify;
+    text-indent: 2em;
+}
+.dec1{
+    text-decoration:underline wavy red;
+}
+
+.trans1{
+    color: blueviolet;
+    text-transform:capitalize ;
+}
+    
